@@ -49,5 +49,14 @@
   "password": "asdasd",
   "image": "default-image.png",
   "id": 8
+ },
+ {
+  "firstName": "asdf",
+  "lastName": "asdfg",
+  "email": "ro@gmail.com",
+  "date": "1995-01-12",
+  "password": "12345678",
+  "image": "default-image.png",
+  "id": 9
  }
 ]
