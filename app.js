@@ -26,7 +26,8 @@ app.use(express.json())
 // Pasar poder pisar el method="POST" en el formulario por PUT y DELETE
 app.use(methodOverride('_method'));
 
-app.listen(process.env.PORT ||port, () => console.log(`Servidor Funcionando! ${port}!`))
+app.listen (process.env.PORT ||3030, () =>
+{console.log('Servidor funcionando bien');});
 
 
 
